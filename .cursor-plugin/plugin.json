@@ -1,0 +1,14 @@
+{
+  "name": "spellar",
+  "version": "1.0.0",
+  "description": "Ask about your Spellar meetings from Cursor: decisions, transcripts and action items, and keep them up to date.",
+  "author": {
+    "name": "Spellar",
+    "email": "support@spellar.ai"
+  },
+  "homepage": "https://spellar.ai/docs/mcp",
+  "repository": "https://github.com/SpellarAI/spellar-cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": ["meetings", "transcripts", "notes", "action-items", "productivity"]
+}
