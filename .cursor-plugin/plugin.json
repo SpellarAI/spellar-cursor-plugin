@@ -1,5 +1,6 @@
 {
   "name": "spellar",
+  "displayName": "Spellar",
   "version": "1.0.0",
   "description": "Ask about your Spellar meetings from Cursor: decisions, transcripts and action items, and keep them up to date.",
   "author": {
@@ -10,5 +11,11 @@
   "repository": "https://github.com/SpellarAI/spellar-cursor-plugin",
   "license": "MIT",
   "logo": "assets/logo.png",
-  "keywords": ["meetings", "transcripts", "notes", "action-items", "productivity"]
+  "keywords": [
+    "meetings",
+    "transcripts",
+    "notes",
+    "action-items",
+    "productivity"
+  ]
 }
